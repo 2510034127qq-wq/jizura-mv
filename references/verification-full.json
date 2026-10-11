@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-10T11:06:12.767Z",
+  "checks": {
+    "resources": {
+      "specs": 42,
+      "files": 79,
+      "licenses": 40,
+      "allHashesMatch": true
+    },
+    "editingAndLayerEdges": {
+      "lineTimeApplied": true,
+      "contentApplied": true,
+      "overlayIndependentDuringTransition": true,
+      "layeredBackgroundVisible": true,
+      "layerLockPreserved": true
+    },
+    "completeness": {
+      "selectable": 860,
+      "registered": 862,
+      "styles": 27,
+      "allMethodsUnchanged": true
+    },
+    "allComponentRendering": {
+      "components": 862,
+      "frames": 7839,
+      "pixelComparisons": 2613,
+      "styles": 27,
+      "failures": []
+    },
+    "projectAndLocks": {
+      "roundtrip": true,
+      "rejected": true,
+      "lockPreserved": true,
+      "invisible": true,
+      "keyframeMid": 150
+    },
+    "editorRoundtrip": {
+      "importedIdenticalCuts": true,
+      "parameterEdited": true,
+      "nativeComponentControl": true,
+      "explicitCutTimingEdited": true,
+      "timingUndoRedo": true,
+      "lyricEditUndo": true,
+      "lookHistoryRestoresAgent": true,
+      "timingEdited": true,
+      "librarySaveLoad": true,
+      "lockedRandomization": true,
+      "savedAudio": true,
+      "exports": [
+        "LRC",
+        "AE JSON",
+        "transparent PNG ZIP",
+        "MP4"
+      ],
+      "errors": []
+    },
+    "alphaAndLockedContinuation": {
+      "zero": true,
+      "visible": true,
+      "transparentFrames": 12,
+      "layerFrames": 24,
+      "lockedFullRecipeIdentical": true
+    },
+    "decode-final.mp4": {
+      "duration": 7.018667,
+      "width": 640,
+      "height": 360,
+      "nonempty": true,
+      "audio": {
+        "channels": 1,
+        "duration": 7.018666666666666,
+        "rms": 0.12919006032798794
+      }
+    },
+    "decode-segment.mp4": {
+      "duration": 1.002667,
+      "width": 640,
+      "height": 360,
+      "nonempty": true,
+      "audio": {
+        "channels": 1,
+        "duration": 1.0026666666666666,
+        "rms": 0.12859298538595307
+      }
+    },
+    "decode-ui-video.mp4": {
+      "duration": 2.416667,
+      "width": 640,
+      "height": 360,
+      "nonempty": true,
+      "audio": {
+        "channels": 1,
+        "duration": 2.4098125,
+        "rms": 0.12890550668938833
+      }
+    },
+    "agentExports": {
+      "fullMP4": true,
+      "segmentMP4": true,
+      "transparentPNGZip": true,
+      "twoLayerPNGZip": true,
+      "previewPNG": true
+    }
+  }
+}

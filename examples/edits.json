@@ -1,0 +1,5 @@
+[
+  {"op": "lock", "line": 0},
+  {"op": "cut", "line": 1, "cut": 0, "patch": {"controls": {"x": 160, "rotation": -5}, "decor": [{"id": "rings", "seed": 345, "n": 3}]}},
+  {"op": "line", "line": 2, "time": 4.2}
+]

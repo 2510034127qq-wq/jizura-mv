@@ -1,0 +1,23 @@
+{
+  "title": "曙光 / Dawn",
+  "artist": "JIZURA Skill Demo",
+  "lyrics": "[00:00.00]夜明けの色を\n[00:02.00]*透明*な声!\n[00:04.00]明日へ歩こう",
+  "style": "noir", "lang": "ja", "seed": 7319, "extra": true, "res": 360, "fps": 24,
+  "timing": {"offset": 0, "snap": false, "tail": 0.4, "lineScale": 0.65},
+  "overrides": {
+    "0": {"single": true, "layout": "center", "enter": "assemble", "hold": "breathe", "exit": "drift", "decor": ["rings"], "bg": "none", "treat": "none", "cam": "push"},
+    "1": {"single": true, "layout": "vcols", "enter": "wipe", "exit": "explode", "decor": ["reticle"], "trans": "wipe"},
+    "2": {"single": true, "layout": "marquee", "enter": "type", "exit": "blur"}
+  },
+  "agent": {
+    "version": 1,
+    "cuts": {"0:0": {"controls": {"x": 0, "y": 0, "opacity": 1}, "keyframes": [{"path": "controls.y", "easing": "inOutSine", "keys": [{"time": 0, "value": 80}, {"time": 1.4, "value": -30}]}]}},
+    "events": [{"t": 2.1, "type": "flash", "amp": 0.7, "dur": 0.08}],
+    "layers": [{"id": "subtitle", "z": 10, "start": 0, "end": 6, "opacity": 0.8,
+      "project": {"lyrics": "黎明的色彩\n透明的声音\n走向明天", "lang": "zh-Hans", "style": "noir", "seed": 15, "res": 360,
+        "timing": {"offset": 0, "snap": false, "lineTimes": {"0": 0, "1": 2, "2": 4}, "lineScale": 0.65, "tail": 0.4},
+        "fx": {"glitch": 0, "chroma": 0, "decor": 0, "texture": 0, "flash": false, "hud": "off"},
+        "overrides": {"0": {"single": true, "layout": "lowerThird", "enter": "blur", "exit": "blur", "decor": [], "bg": "none", "treat": "none"}, "1": {"single": true, "layout": "lowerThird", "decor": [], "bg": "none", "treat": "none"}, "2": {"single": true, "layout": "lowerThird", "decor": [], "bg": "none", "treat": "none"}}}}
+    ]
+  }
+}

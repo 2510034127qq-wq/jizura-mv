@@ -1,0 +1,4 @@
+interface:
+  display_name: "JIZURA PV/MV"
+  short_description: "完整原生组件、AI 无界面渲染与网页人工编辑，共享可编辑音乐视频工程"
+  default_prompt: "使用 $jizura-mv 根据歌词和分镜组合原生组件，先生成 AI 主体版，再叠加避开前景与锁定片段的原版随机增强，比较真实预览后导出可编辑音乐 PV。"

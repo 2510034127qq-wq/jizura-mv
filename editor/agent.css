@@ -1,0 +1,4 @@
+#agentPanel{margin:16px;padding:14px;border:1px solid var(--border,#555);border-radius:8px;background:var(--panel,#17171d);color:var(--fg,#eee)}
+#agentPanel textarea{display:block;width:100%;min-height:140px;font:12px/1.5 monospace;color:inherit;background:var(--bg,#111);resize:vertical}
+#agentPanel select,#agentPanel button,#agentPanel input{margin:5px;max-width:95%}
+#agentPanel .agent-status{white-space:pre-wrap;color:#9de5d2}#agentPanel summary{cursor:pointer}#agentPanel label{display:inline-block}

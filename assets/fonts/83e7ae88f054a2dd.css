@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Noto Serif TC';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(e41d6ebda72e283d57ab9ebb.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif TC';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(854317d01195020a46cfefb5.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif TC';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(ae614ba43b64102750f3c87f.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif TC';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(9194b62bb6cb3c5061917df5.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif TC';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(a84c3cf42c5cfc30e9c66f69.ttf) format('truetype');
+}

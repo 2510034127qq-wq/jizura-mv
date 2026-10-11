@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'IBM Plex Sans JP';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(23adf0e1318a13e55c449512.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans JP';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(893e87cfef73c32a9d03fb2b.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans JP';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(dd2bb3eccfbed21bef30dfdb.ttf) format('truetype');
+}

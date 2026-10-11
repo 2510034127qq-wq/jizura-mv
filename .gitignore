@@ -1,0 +1,6 @@
+node_modules/
+dist/
+output/
+.test-work/
+__pycache__/
+*.pyc

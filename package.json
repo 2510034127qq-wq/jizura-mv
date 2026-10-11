@@ -1,0 +1,16 @@
+{
+  "name": "jizura-mv-skill",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/cli.mjs editor",
+    "catalog": "node scripts/catalog.mjs",
+    "test": "node tests/acceptance.mjs",
+    "test:enhance": "node tests/enhancement.mjs",
+    "install:browser": "node scripts/install-browser.mjs"
+  },
+  "dependencies": { "playwright": "1.64.0" }
+}

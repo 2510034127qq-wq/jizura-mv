@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-10T11:13:28.980Z",
+  "checks": {
+    "sharedRuntime": {
+      "baselinePreserved": true,
+      "deterministic": true,
+      "rerollReplaces": true,
+      "removePreserves": true,
+      "recipes": true,
+      "addedCuts": 5,
+      "protectedPixels": 344638,
+      "outsideChanges": 79652,
+      "frames": 6,
+      "lockedPixelsEqual": true,
+      "removedPixelsEqual": true,
+      "frontExportEqual": true,
+      "lateLock": true,
+      "layerLockRejects": true,
+      "rangeValid": true,
+      "visible": [
+        2.8,
+        4.8,
+        6.8,
+        8.8,
+        10.8
+      ]
+    },
+    "advancedProtection": {
+      "frames": 18,
+      "aspects": 3,
+      "actualForegroundPixels": 3770258,
+      "fullHD": true,
+      "transitions": true,
+      "interlude": true,
+      "rotationOpacityKeyframes": true,
+      "disabledRespected": true,
+      "exclusion": true,
+      "lockedOverlay": true,
+      "independentProtectedLayer": true
+    },
+    "editor": {
+      "actualButton": true,
+      "exportGuard": true,
+      "baselinePreserved": true,
+      "downloadedProject": true,
+      "removeButton": true,
+      "reopenEnhancement": true,
+      "errors": []
+    },
+    "cliAndVideo": {
+      "sameAsSharedAPI": true,
+      "actualMP4Decode": {
+        "duration": 1,
+        "width": 640,
+        "height": 360,
+        "nonempty": true
+      },
+      "bytes": 77257
+    }
+  }
+}

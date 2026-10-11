@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Noto Serif JP';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(89aa88c26a19fddd89b014c6.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif JP';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(62b86102606fe55952d0a22d.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif JP';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(46dbffdc65da0aa54ad43f6b.ttf) format('truetype');
+}

@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'Noto Serif JP';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(f361e140455fe62dc299de29.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif JP';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(89aa88c26a19fddd89b014c6.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif JP';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(2e225254bb230149af0415e3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif JP';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(62b86102606fe55952d0a22d.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif JP';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(02f6b6b7ffad70205b8af4cb.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif JP';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(46dbffdc65da0aa54ad43f6b.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif JP';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(67e907e19b700035beced7e3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif JP';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(d22786b651df439bd3e84531.ttf) format('truetype');
+}

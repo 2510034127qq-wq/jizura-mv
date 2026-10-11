@@ -1,0 +1,11 @@
+{
+  "upstreamCommit": "fc16bfe43ea4a6c25a21f1caf04d17326de14f00",
+  "originalFiles": 40,
+  "byteIdenticalFiles": 37,
+  "adapted": [
+    "runtime/native/02_fonts.js",
+    "runtime/native/09_render.js",
+    "runtime/native/12_ui.js"
+  ],
+  "rendererOnlyAddsOptionalBackgroundCondition": true
+}

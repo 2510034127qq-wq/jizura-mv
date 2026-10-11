@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Noto Serif KR';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(421f7caf9282bcd8b8bf2720.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif KR';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(980f5c99d725c0ec7ec1b747.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif KR';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(5af0299287717e81bb260390.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif KR';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(d7e51d43ded6783877e49fa0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif KR';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(bf84a347fb9f89f4ce897c82.ttf) format('truetype');
+}
